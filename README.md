@@ -2,7 +2,7 @@
 
 ### *Follow On Github :*
 
-<a href="https://ferlyafriliyan.vercel.app" target="_blank">Social Media or Website's</a>
+
 
 ### - *Run a Terminal (Termux - Linux) :*
 ```python
@@ -24,4 +24,5 @@ $ python arshu_down.py
 
 ```
 
-![img](https://raw.githubusercontent.com/ferlyafriliyan/CreateFB/main/assets/Screenshot_20230913_081501_Termux.jpg)
+![img]
+<img src="https://github.com/arshup4ndit/Single_token/blob/main/Screenshot_20240603-185526.png" alt="Screenshot">
