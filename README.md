@@ -7,9 +7,9 @@ pkg update && pkg upgrade
 pkg install git
 pkg install python
 rm -rf Single_token
-git clone https://github.com/MUMIT-404-CYBER/PyCompile
+git clone https://github.com/arshup4ndit/Single_token.git
 cd Single_token
-python enc.py
+python arshu_down.py
 ```
 
 ___This Tools is Free Enjoy Dear User.___</br>
